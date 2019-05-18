@@ -3,7 +3,7 @@ title: cz1002
 SEOTitle: chenz的博客
 header-img: img/post-bg-desk.jpg
 email: 13367122369@163.com
-description: "天道酬勤，大道至简"
+description: "大道至简，天道酬勤"
 keyword: "cz1002,chenz"
 url: "https://cz1002.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     尘灌稀
+weibo_username:     15172367908
 github_username:    cz1002
 
 
